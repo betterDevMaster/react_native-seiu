@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80984301082",
+    "firebase_url": "https://seiu-breakroom.firebaseio.com",
+    "project_id": "seiu-breakroom",
+    "storage_bucket": "seiu-breakroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80984301082:android:8d64e337fcfe12b1763ba3",
+        "android_client_info": {
+          "package_name": "com.seiu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80984301082-d75stsan1h6pvdla2ivupec6fr77noj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzihVXiVdmj8jwB7jr99DMAl4Ksa6yinA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80984301082-d75stsan1h6pvdla2ivupec6fr77noj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80984301082-kktf83sqivel1ikikgnvunsb3u3c5p83.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.topflightapps.seiu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
